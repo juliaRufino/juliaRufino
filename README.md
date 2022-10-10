@@ -1,3 +1,5 @@
+<img align="right" alt="baymax" width="350px" src="https://tenor.com/view/hello-there-big-hero6-wave-hello-hi-gif-14779818">
+
 ## Oiee! Eu sou a Julia!
 
 <div align="center">
