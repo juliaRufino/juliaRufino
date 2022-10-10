@@ -1,6 +1,14 @@
-<img align="right" alt="baymax" width="350px" src="https://tenor.com/view/hello-there-big-hero6-wave-hello-hi-gif-14779818">
+<img align="right" alt="chihiro" width="350px" src="https://tenor.com/view/hello-there-big-hero6-wave-hello-hi-gif-14779818.gif">
 
-## Oiee! Eu sou a Julia!
+
+## Oiee! Eu sou a Julia! 👋🏼
+<div>
+  <p>- 📖 Estou me aprofundando nos estudos na área de Front-end;</p>
+  <p>- 🖥 Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas.</p>
+</div>
+
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/juliaRufino">
