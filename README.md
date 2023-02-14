@@ -4,7 +4,7 @@
 ## Oiee! Eu sou a Julia! 👋🏼
 <div>
   <p>- 📖 Estou me aprofundando nos estudos na área de Front-end;</p>
-  <p>- 🖥 Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas.</p>
+  <p>- 🖥 Atualmente estou cursando Análise de Desenvolvimento de SIstemas na faculdade SPTECH.</p>
 </div>
 
 <br>
