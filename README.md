@@ -3,7 +3,6 @@
 
 ## Oiee! Eu sou a Julia! 👋🏼
 <div>
-  <p>- 📖 Estou me aprofundando nos estudos na área de Front-end;</p>
   <p>- 🖥 Atualmente estou cursando Análise e Desenvolvimento de SIstemas na faculdade SPTECH.</p>
 </div>
 
